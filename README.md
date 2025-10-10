@@ -23,7 +23,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 ## Contributing
 
-If you know of an upcoming tech conference, please contribute! Please note that only community conferences which allow CFPs and have Code of Conduct are allowed in this list.
+If you know of an upcoming tech conference, please contribute!
 
 To contribute to the list, please send a Pull Request. If you don't have time to send in a Pull Request, no worries, just open an issue and I'll look into it.
 
