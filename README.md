@@ -17,10 +17,15 @@ To add a conference to the list, please [contribute](#contributing)!
 |[Service now World Forum London 2025](https://www.servicenow.com/events/world-forum/london.html)|Wednesday 15th OCTOBER|Excel London One Western Gateway, Royal Victoria Dock London E16 1XL |discover where London puts AI to work. Dive into hands-on demos, inspiring keynotes, and meaningful connections that spark new opportunities.|offline|
 | [GenAI & Data Day London](https://aws.amazon.com/events/genai-data-day-london/) | Wednesday, 22nd October |Sancroft, St Paul's, London |Unleashing Agentic AI: Transforming Enterprises with Next-Gen AI and Data Innovation|offline|
 |[Global Agentic Nights - London](https://luma.com/g28to2d1)|Monday 3rd November|Building, Level 6, The News, 3 London Bridge St, London SE1 9SG|​Global Agentic Nights are vibrant, community-driven evenings by Global AI Community designed to bring together AI enthusiasts, professionals, and curious minds from around the world|offline|
+| [Cursor London evening hack ](https://luma.com/a127nfxg) |Monday 3 November | incident.io, 66 City Rd, London EC1Y 2AL, UK | 3.5 hours of hackathon with cursor IDE|offline|
 |[5-Day AI Agents Intensive Course with Google](https://google.smh.re/5FgE)| Monday, November 10 - Friday, November 14|Online Link| 5-day Generative AI Intensive Course with Google to master the fundamentals of GenAI|online|
+| [Hands-on Workshop - vLLM Reality Check: Understand, Deploy, Optimize, Automate](https://luma.com/14rnbk5x) | Wednesday 12 November | Hard Rock Cafe London, England |  deep dive into vLLM, a high-performance inference engine for large language models.| offline |
 |[Google Cloud Labs: AI Agents](https://gdg.community.dev/events/details/google-gdg-london-presents-google-cloud-labs-ai-agents/)|Tuesday 18th November|4-5 Bonhill St, 4-5 Bonhill Street, Greater London, EC2A 4BX |Google for Developers community at the AI Playground for a dedicated full-day developer workshop, and learn how to build the next generation of AI Agents and Multi Agent Systems.|offline|
 |[DevFest London](https://devfestlondon.com/speakers)| Saturday, 22nd November|LSE Centre Building (CBG) Houghton St, London, WC2A 2AE|DevFest London is a community-run one-day conference aimed to bring technologists, developers, students, tech companies, and speakers together in one location to learn, discuss and experiment with technology.|offline|
 |[Microsoft Copilot & AI Agents Summit](https://info.microsoft.com/EM-CAW-CNTNTO-FY26-09Sep-15-Microsoft-Copilot-AI-Agents-Summit-EMEA-SREVM76528_Catalog-Display-Page.html?OCID=AID3078643_PSOC_34427840_431714821_244032546)| Wednesday, 26th November|Online Link|broadcast live on November 26 and 27, 2025, designed to inspire and support our Microsoft customers—backed by Microsoft experts and real-world customer stories. This immersive event will spotlight how organizations can transform with AI, with a strong focus on Microsoft Copilot solutions.|online|
+
+
+
 
 
 
